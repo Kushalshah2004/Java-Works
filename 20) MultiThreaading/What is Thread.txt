@@ -1,0 +1,1 @@
+Thread is light weight sub process in single address space

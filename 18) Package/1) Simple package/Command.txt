@@ -1,0 +1,2 @@
+to compile: javac -d ./ *.java
+to execute: java p1.Main

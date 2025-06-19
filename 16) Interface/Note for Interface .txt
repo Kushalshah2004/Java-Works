@@ -1,0 +1,16 @@
+1)	class extends class
+2)	class implements interface
+3)	interface XXXXXXXXX class// Not Possible
+4)	interface extends interface
+	
+	What is Interface?
+
+	-> interface is a keyword
+	-> it is use to achieve abstraction
+	-> interface use for Dynamic Method Dispatch
+	-> We can inherit interface & create reference variable but can't create object of interface
+	-> Declare variable in interface by default (public static final)
+	-> There is only abstract methods allowed concrete methods are not allowed
+	-> It not contain any constructor
+	-> It can't use extend keyword to inherit class.
+	-> It support multiple inheritance

@@ -1,0 +1,3 @@
+class Pqr extends Abc
+{
+}

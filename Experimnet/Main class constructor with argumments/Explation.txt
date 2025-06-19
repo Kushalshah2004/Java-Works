@@ -1,0 +1,1 @@
+the object/(constructor will not call) will not create because main is a static method & static method not require object to call method it associate with class

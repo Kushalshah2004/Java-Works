@@ -1,0 +1,7 @@
+Such relation is simply not possible. 
+
+It defines an infinite recursive class. 
+
+In order to define class C, you need class A, to define class A you need class B, and to define class B you need class C - and you are back to the starting point. 
+
+This goes on infinitely so compiler can't do this and it also has no logical meaning.

@@ -1,0 +1,20 @@
+Old Method/Default Method:
+---------------------------------------------------------------------------------
+in java for compile using command  - javac javafilename.java -(With Extension)  |
+in java for run useing command - java classfilename -(Without Extension)        | 
+---------------------------------------------------------------------------------
+                         	↑      
+                (In older version)(Not Support in java 8)
+					   ↓
+New Method:
+------------------------------------------------------------------------------
+Compile & run in only one command - java javafilename.java -(With Extension) |
+It create class file and execute that class file			     |
+Old method also work in newer version 
+------------------------------------------------------------------------------
+				↑
+               (In newer version)(Support from java 14)
+				↓
+------------------------------------------------------------------------------
+in background javac & java command work					     |
+------------------------------------------------------------------------------

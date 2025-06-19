@@ -1,0 +1,13 @@
+----------------------------------------------------------------|
+Two type of interface						|
+1) Functional interface						|
+								|
+	->Functional Interface is an interface that contain only|
+	  one abstract method.					|
+								|
+2) Marker interface						|
+	->An interface that does not contain any methods,fields,|
+	  Abstract Methods, and any Constants is Called a 	|
+	  Marker interface					|
+								|
+----------------------------------------------------------------|

@@ -1,0 +1,12 @@
+-----------------------------------------------------------|
+import java.io.*					   |
+-> PrintStream class					   |
+-> use for printing data on cmd				   |
+-----------------------------------------------------------|
+import java.lang.*					   |
+-> System class						   |
+-> automaticallly import				   |
+-> it import java.io package 				   |
+-> in this package System class have PrintStream class 	   |
+   reference variable out & out have print/println method  |
+-----------------------------------------------------------|

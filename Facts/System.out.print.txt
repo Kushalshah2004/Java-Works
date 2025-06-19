@@ -1,0 +1,5 @@
+-------------------------------------------------------------
+println(""); - This method's return datatype is void	    |
+							    |
+->for every arguments in print/println toString Method call |
+-------------------------------------------------------------

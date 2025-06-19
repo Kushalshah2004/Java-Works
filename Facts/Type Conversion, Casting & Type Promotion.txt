@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------------------
+-> char to boolean conversion is not possible implicetly or explictely in other words not |   possible by conversion &or by casting() operator					  |
+											  |
+-> long, short, int to bollean is possible						  |
+-------------------------------------------------------------------------------------------
+boolean-> byte -> short ->  int  -> long -> float -> double -> char			  |
+ 1 bit   1 byte  2 bytes  4 bytes  8 bytes  4 bytes  8 bytes  2 bytes			  |
+-------------------------------------------------------------------------------------------
+if we assign value of int to byte							  |
+											  |
+	byte range -128 to 127						 		  |
+	it means							 		  |
+	128										  |
+       +127										  | 
+       -----										  |
+	255 -> here we have't add 0 in range						  |
+	+ 1										  |
+	----										  | 
+	256 ->Total Range								  |
+											  |
+	ex.										  |
+	int num = 257;									  |
+	byte b = (int) num;								  |
+											  |
+->Background process									  |
+											  |
+	-> Step 1-									  |
+	byte b = num % Total range of datatype; (Combine Positive & Negative)		  |
+											  |
+	 ex.										  |
+	 byte b = (257 % 256) -> ans:1							  | 
+											  |
+	-> Step 2-									  |
+	ans Store in byte b								  |
+											  |
+	 ex.										  |
+	 byte b = 1;									  |
+-------------------------------------------------------------------------------------------
+Perform operation on two same datatype ans always in same datatype****			  |
+											  |	
+-> Type promotion***									  |
+ 											  |
+   > Some time ans out of range of datatype there this concept use			  |
+											  |
+	ex.										  |
+	byte a = 10;									  |
+	byte b = 30;									  |											    		  |
+	byte ans = a*b; //300 Ans is outof range 					  |
+											  |
+	> here type promotion occure							  |
+											  |
+	int ans = a*b;									  |
+-------------------------------------------------------------------------------------------

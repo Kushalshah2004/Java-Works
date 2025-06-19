@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------
+			Ex.								      |
+			class a extends b,implements a1,a2,a3				      |
+										       	      | 
+-> java class support multiple inheritance with interface this interface		      |
+   is known as "Abstract parent"							      |
+											      |
+-> java does't support multiple inheritance with normal class				      |
+-----------------------------------------------------------------------------------------------

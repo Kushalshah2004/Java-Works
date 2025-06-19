@@ -1,0 +1,8 @@
+----------------------------------------|
+setBounds(x,y,width,hight);		|
+					|
+x-Deside vertical part for display	|										|
+y-Deside horizontal part for display	|										|
+width- Deside Window Size		|										|
+hight- Deside Window Size		|										|
+----------------------------------------|

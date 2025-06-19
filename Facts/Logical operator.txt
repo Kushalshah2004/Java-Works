@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------
+& - Logical And								|
+									|
+  -> use more time 							|
+  -> it is more Strict							|
+									|
+| - Logical Or								|
+									|
+ -> use less time							|
+ -> it is not strict 							|
+ -> it is also known as short circuit					|
+									|
+! - Logical Not								|
+-------------------------------------------------------------------------

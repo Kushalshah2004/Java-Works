@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------------------
+-> if else work on true or false if never concerned about which operation Perform inside   |
+brackets										   |
+											   |
+-> it just work with true or false               					   |
+											   |
+	ex.										   |
+	if(true)									   |
+	{										   |
+		it execute block							   |
+	}										   |
+	if(false)									   |
+	{										   |	
+		it don't execute block							   |
+	}										   |
+-------------------------------------------------------------------------------------------|
